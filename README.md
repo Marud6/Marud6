@@ -11,7 +11,6 @@
 
 ### 🚀 About Me
 - 🌍 I’m based in **Czech Republic**
-- 🔭 I’m currently working on **Portfolium** (Nuxt-based portfolio project)
 - 👨‍💻 All of my projects are available at [marek-kukla.me](https://marek-kukla.me)
 - 📫 How to reach me: **mkukla.cz@gmail.com**
 
@@ -44,19 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marek-kukla&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marek-kukla&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marek-kukla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
 
----
+--
 
-### 📢 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> ✍️ Want to see more? Check out my full portfolio at **[marek-kukla.me](https://marek-kukla.me)**
