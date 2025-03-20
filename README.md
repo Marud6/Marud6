@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Marek Kukla</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+<h3 align="center">A passionate developer from Czech Republic</h3>
 
 <p align="center">
   <a href="https://marek-kukla.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
